@@ -2,7 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-07-11T06:38:20+00:00</lastmod>
+		<lastmod>2024-07-11T21:03:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/2024/07/11/les-entreprises-qui-recrutent-en-alternance/</loc>
+		<lastmod>2024-07-11T21:03:54+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/recruiting.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/recruiting-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/2024/07/11/optimisez-la-gestion-de-vos-comptes-professionnels-avec-progeliance/</loc>
+		<lastmod>2024-07-11T21:03:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/2024/07/11/conseils-pour-decrocher-un-stage-en-entreprise/</loc>
