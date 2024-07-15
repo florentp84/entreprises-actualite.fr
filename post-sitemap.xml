@@ -2,7 +2,31 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-07-12T21:03:59+00:00</lastmod>
+		<lastmod>2024-07-15T21:04:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/2024/07/15/creer-ou-reprendre-une-entreprise-le-dilemme-a-resoudre/</loc>
+		<lastmod>2024-07-15T21:04:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/entrepreneurship.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/entrepreneurship-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/2024/07/15/le-secret-des-entreprises-publiques/</loc>
+		<lastmod>2024-07-15T06:39:14+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/public-enterprises.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/public-enterprises-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/2024/07/15/comment-se-connecter-a-lespace-client-de-my-people-doc/</loc>
+		<lastmod>2024-07-15T06:34:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/2024/07/12/comprendre-lentree-en-bourse-dune-entreprise/</loc>
