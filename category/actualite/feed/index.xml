@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 	<item>
 		<title>Qui est Georges Kikano ?</title>
 		<link>/2024/07/05/qui-est-georges-kikano/</link>
@@ -67,7 +67,7 @@
 <p>Voici quelques éléments marquants de son enfance et jeunesse :</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>Naissance à Tripoli, au Liban, en 1965</li>
 
@@ -127,7 +127,7 @@
 <p>Voici quelques-uns de ses principaux engagements :</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li><strong>Lutte pour l&rsquo;égalité des droits</strong> : Georges Kikano est un ardent défenseur de l&rsquo;égalité des genres et des droits pour la communauté LGBTQ+.</li>
 
@@ -161,7 +161,7 @@
 <p>    Les actions de Georges Kikano en politique sont vastes et variées. Il a initié et soutenu plusieurs lois essentielles :</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li><strong>Réforme du système éducatif</strong> : visant à rendre l&rsquo;éducation accessible à tous, indépendamment de leur origine socio-économique.</li>
 
@@ -192,7 +192,7 @@
 <p>Georges Kikano a toujours placé les <strong>valeurs humanistes</strong> au cœur de son action politique. Parmi ses engagements phares, on trouve :</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>La défense des droits des immigrés et des réfugiés.</li>
 
@@ -239,7 +239,7 @@
 
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li><strong>Identité :</strong> Georges Kikano est un entrepreneur franco-libanais passionné par l&rsquo;innovation technologique.</li>
 
@@ -326,7 +326,7 @@
 <p>D&rsquo;autre part, il est engagé dans diverses activités <strong>humanitaires</strong> et caritatives. Son implication dans des projets visant à améliorer les conditions de vie des moins fortunés témoigne de son altruisme et de sa volonté de faire une différence positive dans le monde.</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>Littérature</li>
 

@@ -2,7 +2,31 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-07-15T21:04:05+00:00</lastmod>
+		<lastmod>2024-07-16T21:04:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/2024/07/16/strategies-de-visibilite-pour-les-entreprises/</loc>
+		<lastmod>2024-07-16T21:04:04+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/visibility-strategies.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/visibility-strategies-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/2024/07/16/entreprises-et-port-du-voile-ou-trouver-un-emploi-sans-contrainte/</loc>
+		<lastmod>2024-07-16T06:34:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/employment.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/employment-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/2024/07/16/conseils-pour-optimiser-votre-carriere-et-gerer-efficacement-vos-ressources-humaines-dans-le-cadre-professionnel/</loc>
+		<lastmod>2024-07-16T06:33:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/2024/07/15/creer-ou-reprendre-une-entreprise-le-dilemme-a-resoudre/</loc>

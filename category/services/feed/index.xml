@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 	<item>
 		<title>Comment se connecter à l&#8217;espace client de My People Doc</title>
 		<link>/2024/07/15/comment-se-connecter-a-lespace-client-de-my-people-doc/</link>
@@ -47,7 +47,7 @@
 <p>Pour accéder à l&rsquo;espace client de My People Doc, il faut tout d&rsquo;abord disposer d&rsquo;un compte. Voici les étapes à suivre pour créer un compte :</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>Rendez-vous sur le site officiel de My People Doc.</li>
 
@@ -78,7 +78,7 @@
 <p>Une fois l&rsquo;invitation reçue, vous devrez activer votre compte en utilisant un code d&rsquo;activation fourni par votre entreprise. Voici les étapes pour l&rsquo;activer :</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>Recevez le code d&rsquo;activation par e-mail ou courrier.</li>
 
@@ -97,7 +97,7 @@
 <p>Pour vous connecter à votre espace client, suivez ces étapes :</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>Accédez à un moteur de recherche de votre choix.</li>
 
@@ -119,7 +119,7 @@
 <p>My People Doc présente plusieurs avantages pour les entreprises et les employés :</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>Digitalisation de la gestion des ressources humaines.</li>
 
@@ -175,7 +175,7 @@
 </figure>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>
         <span>Accès site : </span>
@@ -254,7 +254,7 @@
 <p>Pour accéder au SYLAé ASP, vous devez disposer de certains outils :</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>Une connexion Internet fiable.</li>
 
@@ -276,7 +276,7 @@
 <p>Avant de pouvoir vous connecter, il est essentiel de créer un compte employeur. Voici les étapes à suivre :</p>
 
 
-<ol>
+<ol class="wp-block-list">
 
 <li>Accédez au portail SYLAé via l&rsquo;adresse <a href="https://sylae.asp-public.fr/" target="_blank" rel="noopener">https://sylae.asp-public.fr/</a>.</li>
 
@@ -304,7 +304,7 @@
 <p>Une fois votre compte créé, voici comment vous connecter :</p>
 
 
-<ol>
+<ol class="wp-block-list">
 
 <li>Rendez-vous à l&rsquo;adresse <a href="https://sylae.asp-public.fr/sylae/" target="_blank" rel="noopener">https://sylae.asp-public.fr/sylae/</a>.</li>
 
@@ -326,7 +326,7 @@
 <p>Des problèmes de connexion peuvent survenir. Voici quelques solutions :</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>Vérifiez votre connexion Internet et vos identifiants.</li>
 
@@ -377,7 +377,7 @@
 </figure>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>Connexion Internet fiable</li>
 
@@ -511,7 +511,7 @@
 <h2 class="wp-block-heading">Liste des avantages de MyPizzaDoor</h2>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li><strong>Commande rapide</strong> via application mobile</li>
 
@@ -578,7 +578,7 @@
 <p>La plateforme MyPrimobox inclut trois logiciels spécialisés :</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li><strong>DEMAT RH</strong> : Pour la dématérialisation de tous les documents liés aux Ressources Humaines.</li>
 
@@ -600,7 +600,7 @@
 <p>En utilisant MyPrimobox, les entreprises peuvent bénéficier de nombreux avantages :</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li><strong>Réduction des coûts</strong> d&rsquo;impression et des coûts postaux.</li>
 
@@ -625,7 +625,7 @@
 <p>Malgré ses nombreux atouts, MyPrimobox présente quelques inconvénients :</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li><strong>Complexité</strong> d’utilisation nécessitant une formation initiale.</li>
 
@@ -705,7 +705,7 @@
 </figure>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>Réduction des coûts</li>
 
@@ -828,7 +828,7 @@
 <h2 class="wp-block-heading">Avantages de Myarkevia</h2>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>Stockage sécurisé de toutes vos données sensibles</li>
 
@@ -897,7 +897,7 @@
 <p><strong>Checklist rapide :</strong></p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>Objet clair et précis</li>
 
@@ -928,7 +928,7 @@
 <p>Pour que votre mail soit bien rédigé, il est essentiel de suivre certaines règles. Voici quelques conseils pratiques :</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li><strong>Utiliser un objet de mail approprié</strong> : Choisissez un objet de mail clair et précis tel que “Confirmation d’entretien &#8211; [Votre Nom]”.</li>
 
@@ -962,7 +962,7 @@
 <p>Assurez-vous d&rsquo;inclure toutes les informations pertinentes dans votre mail. Cela permettra d&rsquo;éviter toute confusion et de montrer que vous prenez l&rsquo;entretien au sérieux.</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>Rappeler la <strong>date</strong> et l&rsquo;<strong>heure</strong> exactes de l&rsquo;entretien.</li>
 
@@ -1035,7 +1035,7 @@
 <p><strong>Conseils pratiques :</strong></p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>Utilisez un <strong>objet clair</strong> comme « Confirmation de rendez-vous d&rsquo;entretien ».</li>
 
@@ -1250,7 +1250,7 @@
 <p>Exemple de mail de confirmation :</p>
 
 
-<ul>
+<ul class="wp-block-list">
 
 <li>Bonjour [Nom du recruteur],</li>
 
