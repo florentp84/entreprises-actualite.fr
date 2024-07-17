@@ -2,7 +2,31 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-07-16T21:04:04+00:00</lastmod>
+		<lastmod>2024-07-17T21:04:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/2024/07/17/comprendre-la-raison-sociale-des-entreprises/</loc>
+		<lastmod>2024-07-17T21:04:08+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/company-purposes.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/company-purposes-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/2024/07/17/le-fonctionnement-dune-entreprise/</loc>
+		<lastmod>2024-07-17T06:34:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/business-operations.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/business-operations-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/2024/07/17/decouvrez-comment-aol-mail-peut-beneficier-a-votre-entreprise-6-avantages-a-connaitre/</loc>
+		<lastmod>2024-07-17T06:34:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/2024/07/16/strategies-de-visibilite-pour-les-entreprises/</loc>
