@@ -2,10 +2,20 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-07-17T21:04:08+00:00</lastmod>
+		<lastmod>2024-07-18T06:34:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/17/comprendre-la-raison-sociale-des-entreprises/</loc>
+		<loc>/travailler-en-entreprise-en-etant-mineur-est-ce-possible/</loc>
+		<lastmod>2024-07-18T06:34:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/employment-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/07/employment-3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/comprendre-la-raison-sociale-des-entreprises/</loc>
 		<lastmod>2024-07-17T21:04:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/company-purposes.jpg</image:loc>
@@ -15,7 +25,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/17/le-fonctionnement-dune-entreprise/</loc>
+		<loc>/le-fonctionnement-dune-entreprise/</loc>
 		<lastmod>2024-07-17T06:34:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/business-operations.jpg</image:loc>
@@ -25,11 +35,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/17/decouvrez-comment-aol-mail-peut-beneficier-a-votre-entreprise-6-avantages-a-connaitre/</loc>
+		<loc>/decouvrez-comment-aol-mail-peut-beneficier-a-votre-entreprise-6-avantages-a-connaitre/</loc>
 		<lastmod>2024-07-17T06:34:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/16/strategies-de-visibilite-pour-les-entreprises/</loc>
+		<loc>/strategies-de-visibilite-pour-les-entreprises/</loc>
 		<lastmod>2024-07-16T21:04:04+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/visibility-strategies.jpg</image:loc>
@@ -39,7 +49,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/16/entreprises-et-port-du-voile-ou-trouver-un-emploi-sans-contrainte/</loc>
+		<loc>/entreprises-et-port-du-voile-ou-trouver-un-emploi-sans-contrainte/</loc>
 		<lastmod>2024-07-16T06:34:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/employment.jpg</image:loc>
@@ -49,11 +59,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/16/conseils-pour-optimiser-votre-carriere-et-gerer-efficacement-vos-ressources-humaines-dans-le-cadre-professionnel/</loc>
+		<loc>/conseils-pour-optimiser-votre-carriere-et-gerer-efficacement-vos-ressources-humaines-dans-le-cadre-professionnel/</loc>
 		<lastmod>2024-07-16T06:33:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/15/creer-ou-reprendre-une-entreprise-le-dilemme-a-resoudre/</loc>
+		<loc>/creer-ou-reprendre-une-entreprise-le-dilemme-a-resoudre/</loc>
 		<lastmod>2024-07-15T21:04:05+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/entrepreneurship.jpg</image:loc>
@@ -63,7 +73,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/15/le-secret-des-entreprises-publiques/</loc>
+		<loc>/le-secret-des-entreprises-publiques/</loc>
 		<lastmod>2024-07-15T06:39:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/public-enterprises.jpg</image:loc>
@@ -73,11 +83,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/15/comment-se-connecter-a-lespace-client-de-my-people-doc/</loc>
+		<loc>/comment-se-connecter-a-lespace-client-de-my-people-doc/</loc>
 		<lastmod>2024-07-15T06:34:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/12/comprendre-lentree-en-bourse-dune-entreprise/</loc>
+		<loc>/comprendre-lentree-en-bourse-dune-entreprise/</loc>
 		<lastmod>2024-07-12T21:03:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/ipo.jpg</image:loc>
@@ -87,7 +97,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/12/les-entreprises-qui-embauchent-en-cdi/</loc>
+		<loc>/les-entreprises-qui-embauchent-en-cdi/</loc>
 		<lastmod>2024-07-12T06:38:18+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/hiring.jpg</image:loc>
@@ -97,15 +107,15 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/12/alyamanager-un-outil-innovant-pour-simplifier-la-gestion-des-professionnels/</loc>
+		<loc>/alyamanager-un-outil-innovant-pour-simplifier-la-gestion-des-professionnels/</loc>
 		<lastmod>2024-07-12T06:33:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/12/comment-acceder-au-portail-employeurs-sylae-asp-pour-les-contrats-aides/</loc>
+		<loc>/comment-acceder-au-portail-employeurs-sylae-asp-pour-les-contrats-aides/</loc>
 		<lastmod>2024-07-12T06:33:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/11/les-entreprises-qui-recrutent-en-alternance/</loc>
+		<loc>/les-entreprises-qui-recrutent-en-alternance/</loc>
 		<lastmod>2024-07-11T21:03:54+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/recruiting.jpg</image:loc>
@@ -115,11 +125,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/11/optimisez-la-gestion-de-vos-comptes-professionnels-avec-progeliance/</loc>
+		<loc>/optimisez-la-gestion-de-vos-comptes-professionnels-avec-progeliance/</loc>
 		<lastmod>2024-07-11T21:03:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/11/conseils-pour-decrocher-un-stage-en-entreprise/</loc>
+		<loc>/conseils-pour-decrocher-un-stage-en-entreprise/</loc>
 		<lastmod>2024-07-11T06:38:20+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/internship-tips.jpg</image:loc>
@@ -129,15 +139,15 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/11/mypizzadoor-changer-la-livraison-de-pizza-a-domicile-pour-toujours/</loc>
+		<loc>/mypizzadoor-changer-la-livraison-de-pizza-a-domicile-pour-toujours/</loc>
 		<lastmod>2024-07-11T06:33:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/11/optimisez-votre-performance-avec-cegidlife-les-cles-pour-gagner-en-efficacite/</loc>
+		<loc>/optimisez-votre-performance-avec-cegidlife-les-cles-pour-gagner-en-efficacite/</loc>
 		<lastmod>2024-07-11T06:33:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/10/acheter-des-actions-mode-demploi/</loc>
+		<loc>/acheter-des-actions-mode-demploi/</loc>
 		<lastmod>2024-07-10T21:04:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/buying-stocks.jpg</image:loc>
@@ -147,35 +157,35 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/10/decouvrez-myprimobox-le-logiciel-de-productivite-gratuit-concu-pour-les-professionnels/</loc>
+		<loc>/decouvrez-myprimobox-le-logiciel-de-productivite-gratuit-concu-pour-les-professionnels/</loc>
 		<lastmod>2024-07-10T21:03:23+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/05/pourquoi-externaliser-votre-service-client/</loc>
+		<loc>/pourquoi-externaliser-votre-service-client/</loc>
 		<lastmod>2024-07-10T14:33:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/09/la-disparition-prochaine-de-societe-com-et-infogreffe-fr-une-perte-pour-la-recherche-dinformations-commerciales/</loc>
+		<loc>/la-disparition-prochaine-de-societe-com-et-infogreffe-fr-une-perte-pour-la-recherche-dinformations-commerciales/</loc>
 		<lastmod>2024-07-10T14:33:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/09/hr4you-reussir-la-gestion-et-loptimisation-des-ressources-humaines-avec-ces-solutions-rh-innovantes/</loc>
+		<loc>/hr4you-reussir-la-gestion-et-loptimisation-des-ressources-humaines-avec-ces-solutions-rh-innovantes/</loc>
 		<lastmod>2024-07-10T14:33:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/09/decouvrez-les-benefices-inattendus-que-compapro-peut-apporter-aux-entreprises-contemporaines/</loc>
+		<loc>/decouvrez-les-benefices-inattendus-que-compapro-peut-apporter-aux-entreprises-contemporaines/</loc>
 		<lastmod>2024-07-10T14:33:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/10/decouvrez-le-salaire-et-les-perspectives-professionnelles-pour-un-poste-de-preparateur-de-commandes-chez-amazon/</loc>
+		<loc>/decouvrez-le-salaire-et-les-perspectives-professionnelles-pour-un-poste-de-preparateur-de-commandes-chez-amazon/</loc>
 		<lastmod>2024-07-10T14:32:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/10/decouvrez-myarkevia-la-plateforme-de-stockage-securise-pour-vos-donnees-sensibles/</loc>
+		<loc>/decouvrez-myarkevia-la-plateforme-de-stockage-securise-pour-vos-donnees-sensibles/</loc>
 		<lastmod>2024-07-10T14:32:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/2024/07/10/les-roles-dans-une-entreprise-panorama/</loc>
+		<loc>/les-roles-dans-une-entreprise-panorama/</loc>
 		<lastmod>2024-07-10T14:30:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/roles.jpg</image:loc>
@@ -185,7 +195,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/05/ou-trouver-un-grossiste-de-friperie-de-luxe/</loc>
+		<loc>/ou-trouver-un-grossiste-de-friperie-de-luxe/</loc>
 		<lastmod>2024-07-05T12:43:13+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/wholesale-luxury-thrift-store.jpg</image:loc>
@@ -195,7 +205,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/05/comment-confirmer-un-entretien-par-mail/</loc>
+		<loc>/comment-confirmer-un-entretien-par-mail/</loc>
 		<lastmod>2024-07-05T12:41:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/confirming-an-interview-by-email.jpg</image:loc>
@@ -205,7 +215,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/05/qui-est-georges-kikano/</loc>
+		<loc>/qui-est-georges-kikano/</loc>
 		<lastmod>2024-07-05T12:41:08+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/georges-kikano.jpg</image:loc>
@@ -215,7 +225,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/05/quelles-sont-les-cles-pour-booster-votre-service-commercial/</loc>
+		<loc>/quelles-sont-les-cles-pour-booster-votre-service-commercial/</loc>
 		<lastmod>2024-07-05T12:38:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/boost-commercial-service.jpg</image:loc>
@@ -225,7 +235,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/05/quest-ce-quun-integrateur-crm-et-en-quoi-peut-il-aider-votre-entreprise/</loc>
+		<loc>/quest-ce-quun-integrateur-crm-et-en-quoi-peut-il-aider-votre-entreprise/</loc>
 		<lastmod>2024-07-05T12:38:03+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/07/crm-integrator.jpg</image:loc>
@@ -235,7 +245,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/2024/07/05/quelles-sont-les-meilleures-phrases-pour-pour-commencer-une-presentation/</loc>
+		<loc>/quelles-sont-les-meilleures-phrases-pour-pour-commencer-une-presentation/</loc>
 		<lastmod>2024-07-05T12:16:53+00:00</lastmod>
 	</url>
 </urlset>
